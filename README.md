@@ -1,6 +1,5 @@
 # Salitang Bomba
 
-Game link: https://mojo1117.github.io/fililililingo3/
 # Keyboard Shortcuts
 
 ## Homepage
